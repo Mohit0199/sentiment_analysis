@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.venv/
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+
+# IDE/Editor folders
+.vscode/
+.idea/
+.project
+.metadata
+*.sublime-workspace
+*.sublime-project
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
